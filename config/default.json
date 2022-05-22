@@ -1,0 +1,9 @@
+{
+  "dbConfig": {
+    "host" : "localhost",
+    "user" : "root",
+    "password" : "",
+    "database" : "trouvaille"
+  },
+  "jwtPrivateKey": "kk"
+}
